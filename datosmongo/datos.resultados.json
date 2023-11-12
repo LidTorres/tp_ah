@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "654db03e15ab934fc23628b8"
+  },
+  "juez": "654dac2615ab934fc23628a0",
+  "game": "654daacf15ab934fc236289c",
+  "arte": 7,
+  "sonido": 5,
+  "tematica": 9,
+  "jugabilidad": 8
+},
+{
+  "_id": {
+    "$oid": "654db03e15ab934fc23628b9"
+  },
+  "juez": "654dac2615ab934fc23628a1",
+  "game": "654daacf15ab934fc236289b",
+  "jugabilidad": 4,
+  "arte": 6,
+  "sonido": 4,
+  "tematica": 7
+},
+{
+  "_id": {
+    "$oid": "654db03e15ab934fc23628ba"
+  },
+  "juez": "654dac2615ab934fc23628a2",
+  "game": "654daacf15ab934fc236289d",
+  "jugabilidad": 9,
+  "arte": 8,
+  "sonido": 7,
+  "tematica": 7
+},
+{
+  "_id": {
+    "$oid": "654db03e15ab934fc23628bb"
+  },
+  "juez": "654dac2615ab934fc23628a3",
+  "game": "654daacf15ab934fc236289a",
+  "jugabilidad": 7,
+  "arte": 9,
+  "sonido": 10,
+  "tematica": 8
+},
+{
+  "_id": {
+    "$oid": "654db03e15ab934fc23628bc"
+  },
+  "juez": "654dac2615ab934fc23628a4",
+  "game": "654daacf15ab934fc2362899",
+  "jugabilidad": 7,
+  "arte": 6,
+  "sonido": 8,
+  "tematica": 7
+}]
